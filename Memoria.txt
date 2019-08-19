@@ -1,0 +1,21 @@
+Cuando leí el enunciado yl ejercicio que tenía que hacer, lo primero que hice fue parar un momento y pensar cómo quería estructurar la web.
+
+Leí cada apartado que se requería y, con lo aprendido en el curso, decidí cual ia a ser el mejor método de acción.
+
+Lo primero, la web necesitaba una cabecera, asi que escribí un título y el nombre de las distintas secciones que iba a tener la web en forma de anclas.
+
+De momento, todos los textos eran Loren Ipsum.
+
+Luego fui rellenando las zonas de una en una.
+Para la sección de "Quiénes Somos", sabía que quería poner imágenes y texto decriptivo de las personas de la empresa. Nada demasiado complejo ni que distrajese.
+
+La sección de los servicios también iba a ser muy sencilla, solo texto.
+
+La sección de tarifas no sabía al principio si quería hacerla como un formulario o como una tabla, pero como también tenía que hacer una sección de contacto, y esa si que teníaque ser un formulario, me decanté por la tabla, y acabé haciendo dos: Una contarifas por guardería, y otra con tarifas por alojamiento.
+También añadí texto abajo, pero solo para darle un poco de "personalidad" a la página.
+
+La última sección, la de contacto, es un formulario con 4 formas distintas de entrada. 5 si contamos el botón de enviar.
+Las secciones de Nombre, Apellidos e E-mail son de tipo texto, mientras que el número de teléfono es numérica.
+Hay un cuadro de texto donde incluir las consultas y, por último, un desplegable para elegir el tipo de mascota.
+
+Cuando llegué al final de la estructuración y empecé a redactar, me di cuenta que no describía demasiado bien los servicios de la web, asi que escribí un pequeño párrafo que se viese al principio, pero que no estuviese dentro de la sección de "Quiénes Somos".
